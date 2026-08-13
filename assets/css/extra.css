@@ -1,0 +1,4 @@
+/* Hide social icons on About page */
+body.page-about .social-icons {
+    display: none !important;
+}

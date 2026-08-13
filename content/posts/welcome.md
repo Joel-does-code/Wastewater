@@ -5,20 +5,18 @@ tags: ["intro", "environment", "wastewater"]
 categories: ["General"]
 draft: false
 cover:
-    image: "/images/welcome.jpg"
-    alt: "Sunset over Perth"
+    image: "/images/Joel.jpg"
+    alt: "Take a leap with me!"
 ---
 
 This is my first real post on my new Hugo + PaperMod blog.
 
 I’ll be writing about:
 
-- environmental monitoring  
-- geospatial analysis  
-- Python + R workflows  
-- sensor projects  
-- campus sustainability  
+- Water and wastewater engineering;
+- Constituents;
+- Alternative facts. 
 
-![Perth](/images/perth.jpg)
+![Perth](/images/Joel.jpg)
 
 More posts coming soon.

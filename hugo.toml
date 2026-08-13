@@ -12,8 +12,10 @@ theme = "PaperMod"
   ShowBreadCrumbs = true
   ShowAllPages = true
   mainSections = ["posts"]
+  customCSS = ["css/extra.css"]
+
   [params.homeInfoParams]
-    Title = "Hi, I'm Joel. This is my blog"
+    Title = "Hi, I'm Joel. This is my blog."
     Content = "Welcome to my blog — where I write about water, tri-ing, and whatever else I’m exploring."
 
   [[params.socialIcons]]
@@ -22,7 +24,7 @@ theme = "PaperMod"
 
   [[params.socialIcons]]
     name = "instagram"
-    url = "https://twitter.com/miniman1101"
+    url = "https://instagram.com/miniman1101"
 
   [[params.socialIcons]]
     name = "linkedin"
