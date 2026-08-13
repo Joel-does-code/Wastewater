@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on My Blog</title>
+    <link>http://localhost:1313/Wastewater/about/</link>
+    <description>Recent content in Abouts on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/Wastewater/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/Wastewater/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/about/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Joel - an undergraduate environmental engineer sharing what I&amp;rsquo;ve learnt about wastewater. I also like to swim, cycle and run, so I will be using triathlon related analogies, references, and jokes wherever possible.&lt;/p&gt;
+&lt;p&gt;This blog is where I document ideas, excitements, and find peace within myself. Enjoy!&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;http://localhost:1313/Wastewater/images/Joel.jpg&#34; alt=&#34;Joel&#34;&gt;
+    &lt;figcaption&gt;Rope-a-dope.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;img alt=&#34;Joel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Wastewater/images/Joel.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

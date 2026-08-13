@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Blog"
+title: "Welcome to my blog!"
 date: 2026-08-13
 tags: ["intro", "environment", "wastewater"]
 categories: ["General"]
@@ -17,6 +17,6 @@ I’ll be writing about:
 - Constituents;
 - Alternative facts. 
 
-![Joel](/static/images/Joel.jpg)
+![Joel](/Wastewater/images/Joel.jpg)
 
 More posts coming soon.

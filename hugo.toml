@@ -15,8 +15,8 @@ theme = "PaperMod"
   customCSS = ["css/extra.css"]
 
   [params.homeInfoParams]
-    Title = "Hi, I'm Joel. This is my blog."
-    Content = "Welcome to my blog — where I write about water, tri-ing, and whatever else I’m exploring."
+    Title = "Hi! I'm Joel. This is my blog."
+    Content = "Welcome to my blog - where I write about water, tri-ing, and whatever else I’m exploring."
 
   [[params.socialIcons]]
     name = "github"
@@ -53,3 +53,8 @@ theme = "PaperMod"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

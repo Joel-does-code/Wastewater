@@ -6,4 +6,6 @@ I'm Joel - an undergraduate environmental engineer sharing what I've learnt abou
 
 This blog is where I document ideas, excitements, and find peace within myself. Enjoy!
 
-![photo](/static/images/KHOO8485.jpg)
+![Joel](/Wastewater/images/Boathouse.jpg)
+
+*This is the last time I felt alive.*
