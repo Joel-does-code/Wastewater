@@ -17,6 +17,6 @@ I’ll be writing about:
 - Constituents;
 - Alternative facts. 
 
-![Joel](/images/Joel.jpg)
+![Joel](/static/images/Joel.jpg)
 
 More posts coming soon.
