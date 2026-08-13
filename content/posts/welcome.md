@@ -17,6 +17,6 @@ I’ll be writing about:
 - Constituents;
 - Alternative facts. 
 
-![Perth](images/Joel.jpg)
+![photo](images/Joel.jpg)
 
 More posts coming soon.
