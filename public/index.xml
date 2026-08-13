@@ -9,18 +9,28 @@
     <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Constituents</title>
+      <link>http://localhost:1313/Wastewater/posts/constituents/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/posts/constituents/</guid>
+      <description>&lt;p&gt;Did you know there&amp;rsquo;s a spotify playlist called &amp;ldquo;Songs About Water&amp;rdquo;? Well, when I sat down to write this blog, I thought it might put me in the mood to write about water. And then I thought &lt;i&gt; Wait, is this a common experience? This playlist has over 1k saves on Spotify, are all these people writing about water? Why are there so many songs about water? Why doesn&amp;rsquo;t the playlist contain Every Teardrop Is a Waterfall by Coldplay? Do these artists also sing about air?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What else am I doing?</title>
+      <link>http://localhost:1313/Wastewater/projects/thesis/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/projects/thesis/</guid>
+      <description>&lt;p&gt;I am currently working on my environmental engineering honours project at UWA, investigating the relationship between purchasing power and thermal comfort in the housing market and aims to answer the question: &lt;i&gt; If I cannot afford the median house price, will I be forced to buy into a more expensive area? &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;While findings might be confronting (especially to someone who would like to buy into the market like myself), I am excited about what this project can uncover. If we know the impacts of our house on our health, we can make informed decisions about where we choose to buy and what (if any) renovations we can do to improve conditions.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Welcome to my blog!</title>
       <link>http://localhost:1313/Wastewater/posts/welcome/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/posts/welcome/</guid>
-      <description>&lt;p&gt;This is my first real post on my new Hugo + PaperMod blog.&lt;/p&gt;
-&lt;p&gt;I’ll be writing about:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Water and wastewater engineering;&lt;/li&gt;
-&lt;li&gt;Constituents;&lt;/li&gt;
-&lt;li&gt;Alternative facts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Joel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Wastewater/images/Joel.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This is my first post on my new Hugo + PaperMod blog.&lt;/p&gt;
+&lt;p&gt;I believe you&amp;rsquo;re meant to say &amp;ldquo;Hello world&amp;rdquo; when beginning a new language&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Hello world!&lt;/p&gt;
 &lt;p&gt;More posts coming soon.&lt;/p&gt;</description>
     </item>
     <item>
@@ -28,10 +38,10 @@
       <link>http://localhost:1313/Wastewater/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Joel - an undergraduate environmental engineer sharing what I&amp;rsquo;ve learnt about wastewater. I also like to swim, cycle and run, so I will be using triathlon related analogies, references, and jokes wherever possible.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m Joel - an undergraduate environmental engineer sharing what I&amp;rsquo;ve learnt about wastewater. I also like to swim, cycle and run, so I will be using triathlon related analogies, references, and jokes wherever possible. Don&amp;rsquo;t expect to find them funny, but you best believe I will.&lt;/p&gt;
 &lt;p&gt;This blog is where I document ideas, excitements, and find peace within myself. Enjoy!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Joel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Wastewater/images/Boathouse.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This is the last time I felt alive.&lt;/em&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Joel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Wastewater/images/Joel.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The last time I felt alive.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

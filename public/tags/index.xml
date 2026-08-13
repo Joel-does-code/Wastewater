@@ -16,10 +16,31 @@
       <description></description>
     </item>
     <item>
-      <title>Intro</title>
-      <link>http://localhost:1313/Wastewater/tags/intro/</link>
+      <title>Environmental Engineering</title>
+      <link>http://localhost:1313/Wastewater/tags/environmental-engineering/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Wastewater/tags/intro/</guid>
+      <guid>http://localhost:1313/Wastewater/tags/environmental-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housing Affordability</title>
+      <link>http://localhost:1313/Wastewater/tags/housing-affordability/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/housing-affordability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling</title>
+      <link>http://localhost:1313/Wastewater/tags/modelling/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermal Comfort</title>
+      <link>http://localhost:1313/Wastewater/tags/thermal-comfort/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/thermal-comfort/</guid>
       <description></description>
     </item>
     <item>
@@ -27,6 +48,20 @@
       <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/wastewater/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1313/Wastewater/tags/blogging/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/Wastewater/tags/intro/</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/intro/</guid>
       <description></description>
     </item>
   </channel>

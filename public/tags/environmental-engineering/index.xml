@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Environmental Engineering on My Blog</title>
+    <link>http://localhost:1313/Wastewater/tags/environmental-engineering/</link>
+    <description>Recent content in Environmental Engineering on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Wastewater/tags/environmental-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What else is Joel doing?</title>
+      <link>http://localhost:1313/Wastewater/projects/thesis/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/projects/thesis/</guid>
+      <description>&lt;p&gt;I am currently working on my environmental engineering honours project at UWA, investigating the relationship between purchasing power and thermal comfort in the housing market and aims to answer the question: &lt;i&gt; If I cannot afford the median house price, will I be forced to buy into a more expensive area? &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;While findings might be confronting (especially to someone who would like to buy into the market like myself), I am excited about what this project can uncover. If we know the impacts of our house on our health, we can make informed decisions about where we choose to buy and what (if any) renovations we can do to improve conditions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
