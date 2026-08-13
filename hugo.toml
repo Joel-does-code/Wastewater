@@ -1,4 +1,55 @@
-baseURL = "https://example.com/"
+baseURL = "https://Joel-does-code.github.io/Wastewater/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "PaperMod"
+[params.homeInfoParams]
+  Title = "Hi, I'm Joel. This is my blog"
+  Content = "Welcome to my blog — where I write about water, tri-ing, and whatever else I’m exploring."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/Joel-does-code"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://twitter.com/miniman1101"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/joel-wright-profile"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 4
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  ShowAllPages = true
