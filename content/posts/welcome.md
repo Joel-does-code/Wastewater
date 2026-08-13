@@ -5,7 +5,7 @@ tags: ["intro", "environment", "wastewater"]
 categories: ["General"]
 draft: false
 cover:
-    image: "/images/Joel.jpg"
+    image: "images/Joel.jpg"
     alt: "Take a leap with me!"
 ---
 
@@ -17,6 +17,6 @@ I’ll be writing about:
 - Constituents;
 - Alternative facts. 
 
-![Perth](/images/Joel.jpg)
+![Perth](images/Joel.jpg)
 
 More posts coming soon.
