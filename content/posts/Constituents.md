@@ -5,7 +5,7 @@ tags: ["Environmental Engineering", "Environment", "Wastewater"]
 categories: ["General"]
 draft: false
 cover:
-    image: "images/Ring'O'Water.jpg"
+    image: "images/Ring'O'Water.JPG"
     alt: "Who said water can't be fun?"
     caption: "Who said water can't be fun?"
 ---
