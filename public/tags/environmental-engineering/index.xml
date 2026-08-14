@@ -9,7 +9,14 @@
     <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/tags/environmental-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What else is Joel doing?</title>
+      <title>Constituents</title>
+      <link>http://localhost:1313/Wastewater/posts/constituents/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/posts/constituents/</guid>
+      <description>&lt;p&gt;Did you know there&amp;rsquo;s a spotify playlist called &amp;ldquo;Songs About Water&amp;rdquo;? Well, when I sat down to write this blog, I thought it might put me in the mood to write about water. And then I thought &lt;i&gt; Wait, is this a common experience? This playlist has over 1k saves on Spotify, are all these people writing about water? Why are there so many songs about water? Why doesn&amp;rsquo;t the playlist contain Every Teardrop Is a Waterfall by Coldplay? Do these artists also sing about air?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What else am I doing?</title>
       <link>http://localhost:1313/Wastewater/projects/thesis/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/projects/thesis/</guid>

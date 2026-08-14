@@ -9,18 +9,20 @@
     <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/tags/environment/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Constituents</title>
+      <link>http://localhost:1313/Wastewater/posts/constituents/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/posts/constituents/</guid>
+      <description>&lt;p&gt;Did you know there&amp;rsquo;s a spotify playlist called &amp;ldquo;Songs About Water&amp;rdquo;? Well, when I sat down to write this blog, I thought it might put me in the mood to write about water. And then I thought &lt;i&gt; Wait, is this a common experience? This playlist has over 1k saves on Spotify, are all these people writing about water? Why are there so many songs about water? Why doesn&amp;rsquo;t the playlist contain Every Teardrop Is a Waterfall by Coldplay? Do these artists also sing about air?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Welcome to my blog!</title>
       <link>http://localhost:1313/Wastewater/posts/welcome/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/posts/welcome/</guid>
-      <description>&lt;p&gt;This is my first real post on my new Hugo + PaperMod blog.&lt;/p&gt;
-&lt;p&gt;I’ll be writing about:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Water and wastewater engineering;&lt;/li&gt;
-&lt;li&gt;Constituents;&lt;/li&gt;
-&lt;li&gt;Alternative facts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Joel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/Wastewater/images/Boathouse.jpeg&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This is my first post on my new Hugo + PaperMod blog.&lt;/p&gt;
+&lt;p&gt;I believe you&amp;rsquo;re meant to say &amp;ldquo;Hello world&amp;rdquo; when beginning a new language&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Hello world!&lt;/p&gt;
 &lt;p&gt;More posts coming soon.&lt;/p&gt;</description>
     </item>
   </channel>

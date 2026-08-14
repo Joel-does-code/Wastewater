@@ -3,7 +3,7 @@ title: "What else am I doing?"
 date: 2026-08-13
 tags: ["environmental engineering", "modelling", "thermal comfort", "housing affordability"]
 categories: ["General"]
-draft: true
+draft: false
 # cover:
 #     image: "images/.png
 #     alt: "Out and about!"
