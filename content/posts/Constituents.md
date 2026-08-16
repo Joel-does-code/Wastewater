@@ -54,10 +54,31 @@ Potentially a more likely solution could be within [exploiting unconventional wa
 
 Water is not truly a scarce resource. There should, and could easily, be more water available than we have use for. As technology improves, this becomes truer and truer.
 
-Join me as I question some facts I've heard about water. 
+[Join me as I question some facts I've heard about water.](https://youtube.com/shorts/tPkIR526vKM?feature=share)
 
 Until next time, 
 
 Sail on, silver girl. 
 
 (Like a bridge over troubled water)
+
+Sources for the blog are listed below.
+
+Hamburger rain - [NASA](https://gpm.nasa.gov/education/videos/anatomy-raindrop)
+
+- Microsoft Copilot
+
+The closed loop of water - [LiveScience.com](https://www.livescience.com/planet-earth/has-all-the-water-on-earth-been-peed-before)
+
+- [Combustion equation](httpswww.chemistrylearner.comchemical-reactionscombustion-reaction)
+- [Respiration equation](https://www.monash.edu/student-academic-success/biology/cellular-respiration/the-process-of-aerobic-respiration)
+
+Is water blue? - [Journal of Chemical Education](https://pubs.acs.org/jceda8/article-pdf/70/8/612/420195/ed070p612.pdf)
+
+- [Grey water image](https://www.thenational.scot/news/25315637.highland-beauty-spot-turned-disgusting-mess-grey-sludge/)
+
+The structure of ice - [Quanta magazine](https://www.quantamagazine.org/why-is-ice-slippery-a-new-hypothesis-slides-into-the-chat-20251208/ )
+
+- [Ice structures](https://pmc.ncbi.nlm.nih.gov/articles/PMC11395702/)
+- [Aerated ice](https://www.google.com/imgres?q=trapped%20air%20bubbles%20in%20glacial%20ice&imgurl=https%3A%2F%2Fi.natgeofe.com%2Fn%2F0a18d91b-bb42-4a62-8513-f2efb6bcecf2%2FEBKXPH.jpg&imgrefurl=https%3A%2F%2Fwww.nationalgeographic.com%2Fenvironment%2Farticle%2Fmelting-glaciers-bubbles-climate-change&docid=vaxliRZav5Jw7M&tbnid=IZob9qknwCFSaM&vet=12ahUKEwiVw4H7taWWAxWkbWwGHfT1CjcQnPAOegQIMxAA..i&w=2544&h=3072&hcb=2&ved=2ahUKEwiVw4H7taWWAxWkbWwGHfT1CjcQnPAOegQIMxAA)
+- [Cold Self-Lubrication of Sliding Ice](https://journals.aps.org/prl/abstract/10.1103/1plj-7p4z#supplemental)
