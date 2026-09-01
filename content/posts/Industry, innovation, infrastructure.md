@@ -5,7 +5,7 @@ tags: ["Environmental Engineering", "Environment", "Wastewater", "Degrowth", "In
 categories: ["General"]
 draft: false
 cover:
-    image: "images/IMG_5762.JPEG"
+    image: "images/IMG_5762.jpeg"
     alt: "Who said water can't be fun?"
 ---
 
