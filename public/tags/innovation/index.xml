@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wastewater on My Blog</title>
-    <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
-    <description>Recent content in Wastewater on My Blog</description>
+    <title>Innovation on My Blog</title>
+    <link>http://localhost:1313/Wastewater/tags/innovation/</link>
+    <description>Recent content in Innovation on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Wastewater/tags/wastewater/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Wastewater/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Industry, Innovation, Infrastructure</title>
       <link>http://localhost:1313/Wastewater/posts/industry-innovation-infrastructure/</link>
@@ -15,14 +15,6 @@
       <guid>http://localhost:1313/Wastewater/posts/industry-innovation-infrastructure/</guid>
       <description>&lt;!-- Identify an important issue currently facing water/wastewater infrastructure (or one that may arise in the future) and associated future challenges. What are some smart solutions to tackle this problem? What are the innovations required to ensure we meet the future service supply requirements? Don’t forget that innovation isn’t just about technology! Make a connection between your discussion and the themes of the last two weeks SDG 9 and 13. --&gt;
 &lt;p&gt;Something I find interesting is the idea that growth is so often the primary indicator of success. The idea that problems go away if we have more. More anything. More everything.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Constituents</title>
-      <link>http://localhost:1313/Wastewater/posts/constituents/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Wastewater/posts/constituents/</guid>
-      <description>&lt;p&gt;Did you know there&amp;rsquo;s a spotify playlist called &amp;ldquo;Songs About Water&amp;rdquo;?&lt;/p&gt;
-&lt;p&gt;Well, when I sat down to write this blog, I thought it might put me in the mood to write about water. And then I thought &lt;i&gt; Wait, is this a common experience? This playlist has over 1k saves on Spotify, are all these people writing about water? Why are there so many songs about water? Why doesn&amp;rsquo;t the playlist contain Every Teardrop Is a Waterfall by Coldplay? Do these artists also sing about air?&lt;/i&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

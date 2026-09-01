@@ -6,20 +6,41 @@
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Degrowth</title>
+      <link>http://localhost:1313/Wastewater/tags/degrowth/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/degrowth/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Environment</title>
       <link>http://localhost:1313/Wastewater/tags/environment/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/environment/</guid>
       <description></description>
     </item>
     <item>
       <title>Environmental Engineering</title>
       <link>http://localhost:1313/Wastewater/tags/environmental-engineering/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/environmental-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/Wastewater/tags/innovation/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wastewater</title>
+      <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/wastewater/</guid>
       <description></description>
     </item>
     <item>
@@ -41,13 +62,6 @@
       <link>http://localhost:1313/Wastewater/tags/thermal-comfort/</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/thermal-comfort/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wastewater</title>
-      <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Wastewater/tags/wastewater/</guid>
       <description></description>
     </item>
     <item>

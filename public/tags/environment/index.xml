@@ -6,8 +6,16 @@
     <description>Recent content in Environment on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industry, Innovation, Infrastructure</title>
+      <link>http://localhost:1313/Wastewater/posts/industry-innovation-infrastructure/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/posts/industry-innovation-infrastructure/</guid>
+      <description>&lt;!-- Identify an important issue currently facing water/wastewater infrastructure (or one that may arise in the future) and associated future challenges. What are some smart solutions to tackle this problem? What are the innovations required to ensure we meet the future service supply requirements? Don’t forget that innovation isn’t just about technology! Make a connection between your discussion and the themes of the last two weeks SDG 9 and 13. --&gt;
+&lt;p&gt;Something I find interesting is the idea that growth is so often the primary indicator of success. The idea that problems go away if we have more. More anything. More everything.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Constituents</title>
       <link>http://localhost:1313/Wastewater/posts/constituents/</link>
