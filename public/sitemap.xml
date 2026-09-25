@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/Wastewater/categories/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Wastewater/tags/cover-design/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Wastewater/tags/degrowth/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,7 +26,13 @@
     <loc>http://localhost:1313/Wastewater/tags/innovation/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Wastewater/tags/mining/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Wastewater/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/posts/non-residential-wastewater/</loc>
     <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/posts/</loc>
