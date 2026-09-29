@@ -5,15 +5,15 @@ tags: ["Environmental Engineering", "Environment", "Wastewater", "Mining", "Cove
 categories: ["General"]
 draft: false
 cover:
-    image: "images/IMG_5762.jpeg"
-    alt: "Who said water can't be fun?"
+    image: "images/Title_page.png"
+    alt: "What's the deal with AI data centres?"
 ---
 
 One of the biggest opportunities for reducing the environmental footprint of primary industry exists in the handling and reduction of wastewater. 
 
 The headline example of this at the moment is probably AI data centres; the media are describing an AI landscape where every model interaction supposedly requires a vast amount of water and electricity to cool these vast computer hubs. Water is not actually consumed in this process (strictly speaking, there a few processes that actually consume water, e.g., photosynthesis); however, it is considered waste because it is a vector transporter of heat, where [heat is the waste product](https://www.bloomberg.com/graphics/2026-ai-data-center-heat-pollution-cities/). 
 
-From what was considered a non-issue, inefficient water use in data centres has become a [frequent news headline](https://www.theguardian.com/us-news/2026/sep/08/us-data centres-wastewater-pollution) due to the industry's [near exponential growth](https://programs.com/resources/number-of-data-centers/). 
+From what was considered a non-issue, inefficient water use in data centres has become a [frequent news headline](https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution) due to the industry's [near exponential growth](https://programs.com/resources/number-of-data-centers/). 
 
 There are some that say these operations are [becoming more efficient](https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/), however, the economic incentives for them to grow quickly (and be [first to market with new capabilities](https://www.linkedin.com/pulse/first-mover-advantage-ai-opportunities-challenges-scott-griswold-v9tse/)) likely outweigh any incentives to do things efficiently or responsibly in the long term.
 
@@ -51,4 +51,14 @@ People throughout history have often said this sort of thing, and fair enough to
 
 But that didn't happen, so maybe things will be fine.
 
-[Check out my video!]()
+[Check out my video!](https://youtube.com/shorts/63ZbaCg2xio?feature=share)
+
+1. [Data centre water requirements per Sydney water](https://www.sydneybasinwater.com.au/service/data-centre-water-supply/)
+
+2. [Space plans for orbiting data centres](https://www.spacex.com/spacexai/starmind)
+
+3. [Profits over progress](https://theconversation.com/big-ai-wants-to-slow-down-ai-research-is-it-a-safety-pause-or-a-strategic-retreat-291867)
+
+4. [AI cover image and conversation with copilot](https://copilot.microsoft.com/)
+
+5. [AI jingle](https://gemini.google.com/app/129bb6fd9f93ceff?utm_source=sem&utm_medium=paid-media&utm_campaign=lyria_sem&gclsrc=aw.ds&gad_source=1&gad_campaignid=23094952522&gbraid=0AAAAApk5BhmURUW7tiHJIU6cWceNptxjs&gclid=CjwKCAjww-3VBhAcEiwAwUUIu2WImuEApeuKpByDJjQqHzTBPJCcKSxneOpQ7SGl9cFWgyt5_vBZiBoCoDQQAvD_BwE)
