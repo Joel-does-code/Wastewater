@@ -1,11 +1,11 @@
 ---
-title: "My Favourite Innovation"
+title: "Innovative Regulation"
 date: 2026-10-14
 tags: ["Environmental Engineering", "Environment", "Wastewater", "Innovation"]
 categories: ["General"]
 draft: false
 cover:
-    # image: "images/IMG_5762.jpeg"
+    image: "images/Water.JPG"
     # alt: "Who said water can't be fun?"
 ---
 
