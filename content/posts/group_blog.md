@@ -5,8 +5,8 @@ tags: ["Environmental Engineering", "Environment", "Wastewater"]
 categories: ["General"]
 draft: false
 cover:
-    # image: "images/Ring'O'Water.JPG"
-    # alt: "Who said water can't be fun?"
+    image: "images/Perth’s Water Tour_ Seven Stops.png"
+    alt: "Check it out, MTV style?"
 ---
 # The journey behind every glass
 

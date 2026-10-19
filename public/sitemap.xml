@@ -3,33 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Wastewater/categories/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/tags/environment/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/tags/environmental-engineering/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/categories/general/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/posts/group_blog/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/posts/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/tags/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Wastewater/tags/wastewater/</loc>
+    <lastmod>2026-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/tags/innovation/</loc>
     <lastmod>2026-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/posts/wastewater-innovation/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Wastewater/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Wastewater/posts/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Wastewater/tags/</loc>
-    <lastmod>2026-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Wastewater/tags/wastewater/</loc>
     <lastmod>2026-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Wastewater/tags/cover-design/</loc>

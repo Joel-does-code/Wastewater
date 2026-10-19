@@ -6,20 +6,27 @@
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Wastewater/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Environment</title>
       <link>http://localhost:1313/Wastewater/tags/environment/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/environment/</guid>
       <description></description>
     </item>
     <item>
       <title>Environmental Engineering</title>
       <link>http://localhost:1313/Wastewater/tags/environmental-engineering/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/environmental-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wastewater</title>
+      <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Wastewater/tags/wastewater/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/Wastewater/tags/innovation/</link>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Wastewater/tags/innovation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wastewater</title>
-      <link>http://localhost:1313/Wastewater/tags/wastewater/</link>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Wastewater/tags/wastewater/</guid>
       <description></description>
     </item>
     <item>
